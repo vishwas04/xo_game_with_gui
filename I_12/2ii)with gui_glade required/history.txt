@@ -1,0 +1,12 @@
+sid 10
+vishwa 21
+praveen 11
+basava 14
+tim 0
+kim 1
+jim 3
+john 1
+kim 2
+jim 0
+timmy 1
+jimmy 0

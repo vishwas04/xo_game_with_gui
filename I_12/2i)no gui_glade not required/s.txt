@@ -1,0 +1,4 @@
+a 2 b 0
+praveen 1 sid 0
+Basva 1 vish 0
+tom 0 jerry 1
